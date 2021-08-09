@@ -3,7 +3,7 @@
 >Coaching-Learning-System is a multi-purpose, high quality eLearning template LMS (Learning management system) for teachers, instructors, education center, schools, universities to create and manage your own online course website. This template flexibility and power can help you easily create beautiful online courses, share your knowledge the world and get some revenue by selling them. Course Builder is easy to use with no coding knowledge required while providing the best education website design.
 
 
-#Pages
+#Pages<br>
 1.Home<br>
 2.About<br>
 3.Teacher<br>
