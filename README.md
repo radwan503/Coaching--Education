@@ -1,48 +1,32 @@
-# Coaching-Learning-Managment-Template
+#Coaching--Learning-Managment
 
-Live Demo:https://radwan503.github.io/Coaching-Learning-Managment-Template/
-Youtube:https://www.youtube.com/watch?v=CVqEp38022M&feature=youtu.be
-Behance:https://www.behance.net/gallery/74997743/Coaching-Learning-Managment-Template
+>Coaching-Learning-System is a multi-purpose, high quality eLearning template LMS (Learning management system) for teachers, instructors, education center, schools, universities to create and manage your own online course website. This template flexibility and power can help you easily create beautiful online courses, share your knowledge the world and get some revenue by selling them. Course Builder is easy to use with no coding knowledge required while providing the best education website design.
 
 
-Coaching-Learning-Managment-Template is a multi-purpose, high quality eLearning template LMS (Learning management system) for teachers, instructors, education center, schools, universities to create and manage your own online course website. This template flexibility and power can help you easily create beautiful online courses, share your knowledge the world and get some revenue by selling them. Course Builder is easy to use with no coding knowledge required while providing the best education website design.
+#Pages
+1.Home<br>
+2.About<br>
+3.Teacher<br>
+4.Course<br>
+5.Galerry<br>
+6.FAQ<br>
+7.Question<br>
+
+#Features<br>
+
+✔HTML5 & CSS3 <br>
+✔Pixel Perfect Design <br>
+✔Responsive Design <br>
+✔User Friendly Code<br> <br>
+✔Clean Markup<br> 
+✔Creative Design <br>
+✔Cross Browser Support <br>
+✔Powered With Bootstrap 3 <br>
 
 
-📌Main features:
+#Source & Credits<br> 
 
-✔HTML5 & CSS3 
-✔Pixel Perfect Design 
-✔Responsive Design 
-✔User Friendly Code 
-✔Clean Markup 
-✔Creative Design 
-✔Cross Browser Support 
-✔Powered With Bootstrap 3 
-✔Used font awesome icon 
-✔Google Font 
-✔Google Map 
-✔Fast Page Loading 
-✔Amazing Megamenu 
-✔Easy to customize 
-✔Smooth animation 
-✔W3C Validated Code 
-✔Well Documented 
-✔Quick View Product 
-✔And Much More!
-
-============📌Source & Credits ============= 
-BootStrap 4 
-Google font 
-Javascript 
-Jquery Library
-Font Awesome 5
-  =========== Thanks ======== please dont Forget to Leave your Feedback.
-
-☑️N.B: I develop this template for my Practice Nothing else.This Website psd I found in google but every single line code is written by me.
-
-Facebookhttps://www.facebook.com/Radwandevs/?modal=admin_todo_tour"
-Twitter:https://twitter.com/RadwanAnik 
-Linkedin:www.linkedin.com/in/radwan-ahmed-b52950100
-Behance:https://www.behance.net/ahmedradwa8b76
-
-
+1.BootStrap 4 <br>
+2.Google font <br>
+3.Jquery Library<br>
+4.Font Awesome 5<br>
